@@ -1,2 +1,2 @@
 # PostfixToInfixGUI
-GUI to generate three address instructions from a infix expression and convert expression to postfix
+GUI to convert postfix expression to infix using a binary tree and print three address instructions for calculations to an output file.
